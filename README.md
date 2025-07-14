@@ -6,10 +6,9 @@
 
 ---
 ## 📜 Table of Contents
-* [About This Project](#-About This Project)
-* [How to Contribute](#-How to Contribute)
-* [List of Favorite Streamers](#-List of Favorite Streamers)
-
+* [About This Project](#-about-this-project)
+* [How to Contribute](#-contribution-method)
+* [List of Favorite Streamers](#-list-of-favorite-streamers) 
 ---
 ## About This Project
 The purpose of this project is not merely to create a list of streamers. It is to build a database that is fun for everyone to see by gathering information such as "what makes each streamer interesting" and "who they are recommended for." I'm waiting for your passion!
@@ -21,7 +20,7 @@ Thank you for your contribution to this project! The method of participation is 
 * **Propose Ideas:** In the **Issues** tab, please propose new ideas for making this project better.
 ---
 
-## 📜 List of Favorite Streamers
+## List of Favorite Streamers
 
 | 名前 (Name) | 主なプラットフォーム (Platform) | おすすめポイント (Why they're great) |
 | :--- | :--- | :--- |
