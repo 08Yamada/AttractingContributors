@@ -31,7 +31,7 @@ Thank you for your contribution to this project! The method of participation is 
 | **[もこう(Mokou)](https://youtube.com/@mokoustream)**| YouTube | His screams while playing horror games | 
 | **[布団ちゃん(Futonchan)](https://www.twitch.tv/indegnasen0706)**| Twich | Chat streams and cooking streams | 
 | **[はんじょう(Hanjo)]()**| | Currently on hiatus | 
-| **[おおえちゃん(Oechan)](https://kick.com/oechan)**| Kick | Fluent, engaging chats with a distinct Mie(prefecture) dialect | 
+| **[おえちゃん(Oechan)](https://kick.com/oechan)**| Kick | Fluent, engaging chats with a distinct Mie(prefecture) dialect | 
 | **[こーすけ(Kosuke)](https://www.youtube.com/@kosukesaiore)**| YouTube | Reliable commentary and creative projects as a member of 'Saishuu Heiki Oretachi' | 
 | **[P-P](https://www.youtube.com/@P-Pchannel)**| YouTube | Sharp, insightful commentary with deep gaming knowledge | 
 | **[Kiyo (キヨ)](https://www.youtube.com/@kiyo_saiore)** | YouTube | His genuine enjoyment of games, one-man comedy duo, and energetic reactions |
