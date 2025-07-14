@@ -34,6 +34,6 @@ Thank you for your contribution to this project! The method of participation is 
 | **[おえちゃん(Oechan)]**| **[Kick](https://kick.com/oechan)** | Fluent, engaging chats with a distinct Mie(prefecture) dialect | 
 | **[こーすけ(Kosuke)]**| **[YouTube](https://www.youtube.com/@kosukesaiore)** | Reliable commentary and creative projects as a member of 'Saishuu Heiki Oretachi' | 
 | **[P-P]**| **[YouTube](https://www.youtube.com/@P-Pchannel)** | Sharp, insightful commentary with deep gaming knowledge | 
-| **[Kiyo (キヨ)]** | **[YouTube](https://www.youtube.com/@kiyo_saiore)** | His genuine enjoyment of games, one-man comedy duo, and energetic reactions |
+| **[Kiyo (キヨ)]** | **[YouTube](https://www.youtube.com/@KIYOisGOD)** | His genuine enjoyment of games, one-man comedy duo, and energetic reactions |
 | **[Matthewmatosis]** | **[YouTube](https://www.youtube.com/@Matthewmatosis)** | In-depth, long-form game reviews based on deep insight |
 
