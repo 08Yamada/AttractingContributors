@@ -24,16 +24,16 @@ Thank you for your contribution to this project! The method of participation is 
 
 | 名前 (Name) | 主なプラットフォーム (Platform) | おすすめポイント (Why they're great) |
 | :--- | :--- | :--- |
-| **[たいじ(Taiji)]**| **[YouTube](https://www.twitch.tv/yaritaiji)** | Incredibly skilled gameplay that's easy to watch |
-| **[加藤純一 (Junichi Kato)]** | **[Twitch](https://www.twitch.tv/kato_junichi0817)** | An entertainer who will do anything to make his audience smile |
-| **[SHAKA]** | **[Twitch](https://www.twitch.tv/fps_shaka)** | A family man |
-| **[おにや(Oniya)]**| **[Twich](https://www.twitch.tv/oniyadayo)** | His unique wit and a cool, cynical playstyle | 
-| **[もこう(Mokou)]**| **[YouTube](https://youtube.com/@mokoustream)** | His screams while playing horror games | 
-| **[布団ちゃん(Futonchan)]**|**[Twitch](https://www.twitch.tv/indegnasen0706)**| Chat streams and cooking streams | 
-| **[はんじょう(Hanjo)]**| | Currently on hiatus | 
-| **[おえちゃん(Oechan)]**| **[Kick](https://kick.com/oechan)** | Fluent, engaging chats with a distinct Mie(prefecture) dialect | 
-| **[こーすけ(Kosuke)]**| **[YouTube](https://www.youtube.com/@kosukesaiore)** | Reliable commentary and creative projects as a member of 'Saishuu Heiki Oretachi' | 
-| **[P-P]**| **[YouTube](https://www.youtube.com/@P-Pchannel)** | Sharp, insightful commentary with deep gaming knowledge | 
-| **[Kiyo (キヨ)]** | **[YouTube](https://www.youtube.com/@KIYOisGOD)** | His genuine enjoyment of games, one-man comedy duo, and energetic reactions |
-| **[Matthewmatosis]** | **[YouTube](https://www.youtube.com/@Matthewmatosis)** | In-depth, long-form game reviews based on deep insight |
+| **たいじ(Taiji)**| **[YouTube](https://www.twitch.tv/yaritaiji)** | Incredibly skilled gameplay that's easy to watch |
+| **加藤純一 (Junichi Kato)** | **[Twitch](https://www.twitch.tv/kato_junichi0817)** | An entertainer who will do anything to make his audience smile |
+| **SHAKA** | **[Twitch](https://www.twitch.tv/fps_shaka)** | A family man |
+| **おにや(Oniya)**| **[Twich](https://www.twitch.tv/oniyadayo)** | His unique wit and a cool, cynical playstyle | 
+| **もこう(Mokou)**| **[YouTube](https://youtube.com/@mokoustream)** | His screams while playing horror games | 
+| **布団ちゃん(Futonchan)**|**[Twitch](https://www.twitch.tv/indegnasen0706)**| Chat streams and cooking streams | 
+| **はんじょう(Hanjo)**| | Currently on hiatus | 
+| **おえちゃん(Oechan)**| **[Kick](https://kick.com/oechan)** | Fluent, engaging chats with a distinct Mie(prefecture) dialect | 
+| **こーすけ(Kosuke)**| **[YouTube](https://www.youtube.com/@kosukesaiore)** | Reliable commentary and creative projects as a member of 'Saishuu Heiki Oretachi' | 
+| **P-P**| **[YouTube](https://www.youtube.com/@P-Pchannel)** | Sharp, insightful commentary with deep gaming knowledge | 
+| **Kiyo (キヨ)** | **[YouTube](https://www.youtube.com/@KIYOisGOD)** | His genuine enjoyment of games, one-man comedy duo, and energetic reactions |
+| **Matthewmatosis** | **[YouTube](https://www.youtube.com/@Matthewmatosis)** | In-depth, long-form game reviews based on deep insight |
 
