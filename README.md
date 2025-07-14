@@ -6,9 +6,9 @@
 
 ---
 ## 📜 Table of Contents
-* [About This Project](#-about-this-project)
-* [How to Contribute](#-contribution-method)
-* [List of Favorite Streamers](#-list-of-favorite-streamers) 
+* [About This Project](#about-this-project)
+* [How to Contribute](#contribution-method)
+* [List of Favorite Streamers](#list-of-favorite-streamers) 
 ---
 ## About This Project
 The purpose of this project is not merely to create a list of streamers. It is to build a database that is fun for everyone to see by gathering information such as "what makes each streamer interesting" and "who they are recommended for." I'm waiting for your passion!
